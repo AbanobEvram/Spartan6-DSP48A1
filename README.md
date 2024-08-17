@@ -14,5 +14,7 @@ The Spartan-6 DSP48A1 slice is a powerful and flexible digital signal processing
 
 ## Features
 **Arithmetic Operations**: The project demonstrates the use of the DSP48A1 slice for performing multiplication, addition, subtraction, and accumulation.
+
 **Pipelining**: The design is optimized for high-speed operation by leveraging the pipelining capabilities of the DSP48A1 slice.
+
 **Customizable Parameters**: Parameters such as bit-widths, operation modes, and pipeline depth can be easily modified to suit different application requirements
