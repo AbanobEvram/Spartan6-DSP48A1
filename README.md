@@ -8,3 +8,6 @@ The Spartan-6 DSP48A1 slice is a powerful and flexible digital signal processing
 
 ## DSP48A1_Block
 ![DSP48A1_Block](images/DSP48A1_Block.png)
+
+## DSP48A1_schematic_diagram
+![DSP48A1_schematic_diagram](images/DSP48A1_schematic_diagram.png)
